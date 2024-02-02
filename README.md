@@ -55,7 +55,9 @@ Link: test
 * Input data
     * True dataset
       
-         * Location
+         * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
+         * Sample
+           >
 
     * False dataset
 
