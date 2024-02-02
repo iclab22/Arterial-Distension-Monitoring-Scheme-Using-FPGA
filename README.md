@@ -30,7 +30,7 @@ Python and matlab code used to design and validate the paper "An approach to mon
     > The Second SVM to generate the inference result for probe positioning status.
 
 * Input data
-    > Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/1st_SVM_test.csv
+    * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/1st_SVM_test.csv
     * Sample
       > |index|feature_1|feature_2|feature_4|feature_4|feature_5|feature_6|feature_7|feature_8|feature_9|feature_10|feature_11|feature_12|label|
       > |-----|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|-----|
