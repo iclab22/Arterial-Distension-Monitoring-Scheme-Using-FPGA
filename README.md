@@ -1,11 +1,7 @@
 # Arterial-Distension-Monitoring-Scheme-Using-FPGA-Based-Inference-Machine-in-Ultrasound-Scanner-Circuit-System
 Python and matlab code used to design and validate the paper "An approach to monitoring arterial dilation using an FPGA-based inference machine in an ultrasound scanner circuit system".
 
-[link keyword][id]
 
-[id]: URL "Optional Title here"
-
-// code
 DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 
 [DOIlink]: https://doi.org/10.1049/ell2.12832
