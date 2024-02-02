@@ -14,7 +14,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 * Usage
     > The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
 
-* Input data
+* Dataset
     * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/1st_SVM_test.csv
     * Sample
  
@@ -35,7 +35,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 * Usage
     > The Second SVM to generate the inference result for probe positioning status.
 
-* Input data
+* Dataset
     * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/2st_SVM_test.csv
     * Sample
       
@@ -55,7 +55,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 * Usage
     > Validate the architecture including the 1D convolution filter, 1st SVM, and 1st SVM using echo signal
 
-* Input data
+* Dataset
     * True dataset
       
          * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
