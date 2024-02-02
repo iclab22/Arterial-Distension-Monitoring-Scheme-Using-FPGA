@@ -2,14 +2,25 @@
 Python and matlab code used to design and validate the paper "An approach to monitoring arterial dilation using an FPGA-based inference machine in an ultrasound scanner circuit system".
 
 # Frist SVM
+
 * Requirement
     > python3.9
 
-* Usage
-    >The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
-    
-    After the average pooling (pooling seize:16, stride: 16).
-    
-* 
+* Input data
+    > 
 
+* Usage
+    > The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
+        
+
+# Second SVM
+
+* Requirement
+    > python3.9
+
+* Input data
+    > 
+
+* Usage
+    > The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
     
