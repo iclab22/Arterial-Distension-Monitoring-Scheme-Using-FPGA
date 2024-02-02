@@ -6,10 +6,12 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 
 [DOIlink]: https://doi.org/10.1049/ell2.12832
 
-# First SVM (1st_SVM.py)
+# First SVM 
 
 * Requirement
     > python3.9
+    
+* Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/python/1st_SVM.py
 
 * Usage
     > The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
