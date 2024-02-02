@@ -49,6 +49,19 @@ Link: test
 * Requirement
     > MATLAB
 
+* Usage
+    > Validate the architecture including the 1D convolution filter, 1st SVM, and 1st SVM using echo signal
+
+* Input data
+    * True dataset
+      
+         * Location
+
+    * False dataset
+
+    * Coarse dataset
+      
+
 
 
 
