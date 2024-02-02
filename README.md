@@ -30,7 +30,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
       > |142144|16.312|15.25|10.25|13.438|23.375|17.812|16.0|18.438|21.25|89.5|0|
         
 
-# Second SVM (2nd_SVM.py)
+# Second SVM
 
 * Requirement
     > python3.9
@@ -39,7 +39,10 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
     > The Second SVM to generate the inference result for probe positioning status.
 
 * Dataset
-    * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/2st_SVM_test.csv
+    * Location
+
+      > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/2st_SVM_test.csv
+      
     * Sample
       
       > |index|feature_1|feature_2|feature_4|feature_4|feature_5|feature_6|feature_7|feature_8|feature_9|feature_10|feature_11|feature_12|label|
@@ -61,24 +64,27 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
 * Dataset
     * True dataset
       
-         * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
+         * Location
+           > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
            
          * Sample
          ><img src="./pic/untitled1.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
     * False dataset
 
-        * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/false/
+        * Location
+          > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/false/
           
         * Sample
         ><img src="./pic/untitled2.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
         
     * Coarse dataset
 
-        * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/coarse/
+        * Location
+          > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/coarse/
 
         * Sample
-        ><img src="./pic/untitled3.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+          ><img src="./pic/untitled3.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
       
 
 
