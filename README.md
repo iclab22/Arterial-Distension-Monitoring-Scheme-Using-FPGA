@@ -68,7 +68,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
            > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
            
          * Sample
-         ><img src="./pic/untitled1.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+           ><img src="./pic/untitled1.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="True"></img><br/>
 
     * False dataset
 
@@ -76,7 +76,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
           > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/false/
           
         * Sample
-        ><img src="./pic/untitled2.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+          ><img src="./pic/untitled3.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="False"></img><br/>
         
     * Coarse dataset
 
@@ -84,7 +84,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
           > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/coarse/
 
         * Sample
-          ><img src="./pic/untitled3.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+          ><img src="./pic/untitled2.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="Coarse"></img><br/>
       
 
 
