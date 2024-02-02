@@ -76,7 +76,7 @@ DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
           > Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/false/
           
         * Sample
-          ><img src="./pic/untitled3.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="False"></img><br/>
+          ><img src="./pic/untitled4.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="False"></img><br/>
         
     * Coarse dataset
 
