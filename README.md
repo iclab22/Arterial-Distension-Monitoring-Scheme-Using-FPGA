@@ -5,7 +5,8 @@ Python and matlab code used to design and validate the paper "An approach to mon
 * Requirement
     > python3.9
 
-    The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
+* Usage
+    >The frist SVM to estimate the wall-pattern score for 12 sub-regions within the scanning range.
     
     After the average pooling (pooling seize:16, stride: 16).
     
