@@ -57,7 +57,7 @@ Link: test
       
          * Location: Arterial-Distension-Monitoring-Scheme-Using-FPGA/dataset/ture/
          * Sample
-           >
+           ><img src="./pic/untitled1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
     * False dataset
 
