@@ -1,7 +1,9 @@
 # Arterial-Distension-Monitoring-Scheme-Using-FPGA-Based-Inference-Machine-in-Ultrasound-Scanner-Circuit-System
 Python and matlab code used to design and validate the paper "An approach to monitoring arterial dilation using an FPGA-based inference machine in an ultrasound scanner circuit system".
 
-# 1st_SVM.py
+Link: test
+
+# First SVM (1st_SVM.py)
 
 * Requirement
     > python3.9
@@ -22,7 +24,7 @@ Python and matlab code used to design and validate the paper "An approach to mon
       > |142144|16.312|15.25|10.25|13.438|23.375|17.812|16.0|18.438|21.25|89.5|0|
         
 
-# 2nd_SVM.py
+# Second SVM (2nd_SVM.py)
 
 * Requirement
     > python3.9
@@ -43,6 +45,9 @@ Python and matlab code used to design and validate the paper "An approach to mon
       > |517|0.190540329522089|0.188469602789336|0.0684739518524529|0.998401892134017|0.475436722997963|0.229245317145906|0.442897288670605|0.879980259478972|0.217705539871115|0.215050074431685|0.223310322841915|0.327669069465585|1|
 
 # verity_model.mlx
+
+* Requirement
+    > MATLAB
 
 
 
