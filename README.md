@@ -2,9 +2,9 @@
 Python and matlab code used to design and validate the paper "An approach to monitoring arterial dilation using an FPGA-based inference machine in an ultrasound scanner circuit system".
 
 
-DOI: [https://doi.org/10.1049/ell2.12832][DOIlink]
+DOI: [https://doi.org/10.1109/TBCAS.2024.3363134][DOIlink]
 
-[DOIlink]: https://doi.org/10.1049/ell2.12832
+[DOIlink]: https://doi.org/10.1109/TBCAS.2024.3363134
 
 # First SVM 
 
